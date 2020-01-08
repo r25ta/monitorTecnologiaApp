@@ -1,0 +1,1 @@
+INDEX VERSION 1.4+C:\Users\ronaldo\Documents\workspace-sts-3.9.4.RELEASE\monitorTecnologiaApp\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
